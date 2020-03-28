@@ -3,6 +3,7 @@ __pycache__/
 *.pyo
 *.log
 *.sql
+*.sqlite3
 .idea
 .iml
 .idea/
