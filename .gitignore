@@ -1,0 +1,9 @@
+
+*.pyc
+*.pyo
+*.log
+*.sql
+*.sqlite
+.idea
+.iml
+.idea/
