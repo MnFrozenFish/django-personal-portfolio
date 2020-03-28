@@ -1,9 +1,11 @@
-
+__pycache__/
 *.pyc
 *.pyo
 *.log
 *.sql
-*.sqlite
+*.sqlite3
 .idea
 .iml
 .idea/
+/static/
+local_settings.py
